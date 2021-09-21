@@ -1,0 +1,16 @@
+{
+  "name": "my-team-page-master",
+  "version": "1.0.0",
+  "description": "<!-- Please update value in the {}  -->",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve .",
+    "style": "node-sass sass/main.scss style.css -w"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serv": "^0.2.4",
+    "serve": "^12.0.1"
+  }
+}
